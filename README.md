@@ -10,7 +10,6 @@ I am a developer currently building **NEYRA** and exploring the intersection of 
 ---
 
 ### 🛠️ Tech Stack & Tools
-*(Hapus tanda kurung jika Anda ingin menambahkan tools lain)*
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
